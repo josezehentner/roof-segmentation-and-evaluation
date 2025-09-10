@@ -18,4 +18,8 @@ To prepare the input data, I developed a custom **QGIS plugin** (Python/PyQGIS) 
   
 This plugin reduces repetitive manual tasks into a reproducible, efficient workflow. It is included in this repository under [roof_sealed_segmenter/](roof_sealed_segmenter/).
 
+### Requirements
+
+- **Notebooks**: See `requirements_notebooks.txt`. These can be run in Google Colab or any Python 3.10+ environment.  
+- **QGIS Plugin**: The plugin requires a QGIS installation with its bundled Python interpreter. Dependencies are listed in `requirements_qgis.txt`.  
 
