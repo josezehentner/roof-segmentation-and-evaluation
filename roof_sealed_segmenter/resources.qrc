@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/roof_sealed_segmenter" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

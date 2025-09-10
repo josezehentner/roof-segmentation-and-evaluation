@@ -1,0 +1,4 @@
+# QGIS dependencies (not installed via pip):
+# Requires QGIS (with its bundled PyQGIS and PyQt5 environment)
+
+rasterio

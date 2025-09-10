@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+geopandas
+rasterio
+scikit-learn
+scikit-image
+tifffile
+torch
+segment-geospatial  # provides `samgeo`
